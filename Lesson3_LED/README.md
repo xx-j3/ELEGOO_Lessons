@@ -44,6 +44,10 @@ LEDが光っている様子はこちらです。
 - LEDのカソードはGNDと同じ-の列に接続する  
 - 抵抗器のΩが大きいほど、LEDの明かりが弱くなる
 
+### ▼感想  
+- LEDの点灯は簡単だと思っていたが、接続の際に気を付ける事項（LEDの極性など）が多く、
+  実際に自分の手で触って作ることが大切だと思った。
+  
 ### ▼参考にしたサイト  
 - [LEDの極性について](https://www.my-craft.jp/html/aboutled/led_kyokusei.html)  
 - [抵抗器のカラーコード](https://www.jarl.org/Japanese/7_Technical/lib1/teikou.htm)  
