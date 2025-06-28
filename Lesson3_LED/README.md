@@ -34,10 +34,9 @@
 ## 実行結果
 LEDが光っている様子はこちらです。
 
-![LEDの点灯写真](./led_on.jpg)
-
-
-  
+![LEDの点灯写真_10kΩ](./Lesson3_LED_picture/result_10kohm2.jpg)
+![LEDの点灯写真_1kΩ](./Lesson3_LED_picture/result_1kohm2.jpg)
+![LEDの点灯写真_220Ω](./Lesson3_LED_picture/result_220ohm2.jpg)
 
 ### ▼工作していて気付いたこと  
 - ブレッドボードに接続する際には、+と-に注意する（特に電源ボード、混乱を避けるため）  
