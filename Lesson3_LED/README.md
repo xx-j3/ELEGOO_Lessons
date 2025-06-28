@@ -10,7 +10,7 @@
 - (1) x 220 ohm resistor  
 - (1) x 1k ohm resistor  
 - (1) x 10k ohm resistor  
-- (2) x M-M wires (Male to Male jumper wires)
+- (2) x M-M wires (Male to Male jumper wires)  
 [構成部品一覧__Lesson3_LED](Lesson3_LED_picture/parts_lists1.jpg)
 
 ### ▼回路図  
