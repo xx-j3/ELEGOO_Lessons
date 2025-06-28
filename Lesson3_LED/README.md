@@ -13,7 +13,7 @@
 - (2) x M-M wires (Male to Male jumper wires)
 
 ### ▼回路図  
-- [回路図_Lesson3_LED](Lesson3_LED_回路図.png)
+- [回路図_Lesson3_LED](Lesson3_LED_schematic.png)
 
 ### ▼スケッチコード
 - [コード_Lesson3_LED](Lesson3_LED.ino)  
