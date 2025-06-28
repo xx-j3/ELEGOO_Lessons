@@ -1,0 +1,38 @@
+## Lesson3_LED
+
+### ▼概要  
+このレッスンでは、異なる値の抵抗を使用してLEDの輝度を変更する方法を学習します。
+
+### ▼必要な構成部品  
+- (1) x Elegoo Uno R3  
+- (1) x 5mm red LED  
+- (1) x 220 ohm resistor  
+- (1) x 1k ohm resistor  
+- (1) x 10k ohm resistor  
+- (2) x M-M wires (Male to Male jumper wires)
+
+### ▼回路図  
+- [回路図_Lesson3_LED](Lesson3_LED_回路図.png)  
+
+### ▼スケッチコード
+- [コード_Lesson3_LED](Lesson3_LED.ino)  
+
+### ▼注意事項  
+- LEDには、アノードとカソードと呼ばれる極性があります。  
+　つまりプラスとマイナスがあり、向きを間違えてつなぐと光りません。  
+　**陽極【プラス側】・・・アノード（記号「A」）**  
+　**陰極【マイナス側】・・・カソード（記号「K」）**
+
+- 抵抗器（resistor）には極性はありません。  
+  ただし、抵抗器のカラーコードが5本帯のため読み間違いに注意が必要です。
+
+### ▼工作していて気付いたこと  
+- ブレッドボードに接続する際には、+と-に注意する（特に電源ボード、混乱を避けるため）  
+- GNDは-、5Vは+  
+- LEDのカソードはGNDと同じ-の列に接続する  
+- 抵抗器のΩが大きいほど、LEDの明かりが弱くなる
+
+### ▼参考にしたサイト  
+- [LEDの極性について](https://www.my-craft.jp/html/aboutled/led_kyokusei.html)  
+- [抵抗器のカラーコード](https://www.jarl.org/Japanese/7_Technical/lib1/teikou.htm)  
+- [ブレッドボードの使い方](http://shop.sunhayato.co.jp/blogs/problem-solving/breadboard)
