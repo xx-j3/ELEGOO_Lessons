@@ -12,7 +12,7 @@ RGB LED（光の三原色を表現できるLED）を使用して、パルス幅�
 - (3) x 220Ω resistors  
 
 ### ▼ 回路図  
-- ![回路図_Lesson4_RGB_LED](Lesson4_RGB_LED_schematic.png)
+- ![回路図_Lesson4_RGB_LED](./Lesson4_RGB_LED_schematic.png)
 
 ### ▼ スケッチコード  
 - [コード_Lesson4_RGB_LED](Lesson3_LED.ino)
