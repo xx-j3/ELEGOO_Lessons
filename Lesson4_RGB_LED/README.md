@@ -12,10 +12,10 @@ RGB LED（光の三原色を表現できるLED）を使用して、パルス幅�
 - (3) x 220Ω resistors  
 
 ### ▼ 回路図  
-- [回路図_Lesson4_RGB_LED](./Lesson4_RGB_LED_schematic.png)
+- [回路図_Lesson4_RGB_LED](Lesson4_RGB_LED_schematic.png)
 
 ### ▼ スケッチコード  
-- [コード_Lesson4_RGB_LED](Lesson3_LED.ino)
+- [コード_Lesson4_RGB_LED](Lesson4_RGB_LED.ino)
 
 
 ### ▼ 注意事項  
@@ -27,9 +27,8 @@ RGB LED（光の三原色を表現できるLED）を使用して、パルス幅�
 ## ■ 配線の様子  
 
 下の写真は、ブレッドボードに回路を組んだ様子です。  
-（※Lesson3の写真を流用している場合、適宜更新してください）
 
-![配線の写真](./Lesson3_LED_picture/circuit_layout.jpg)
+![配線の写真](./Lesson4_RGB_LED_picture/circuit_layout.JPG)
 
 ## ■ 実行結果  
 
