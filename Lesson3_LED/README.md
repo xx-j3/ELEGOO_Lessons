@@ -4,7 +4,6 @@
 このレッスンでは、異なる値の抵抗を使用してLEDの輝度を変更する方法を学習します。
 
 ### ▼必要な構成部品  
-[構成部品一覧__Lesson3_LED](Lesson3_LED_picture/parts_lists1.jpg)
 - (1) x Elegoo Uno R3
 - (1) x 830 Tie Points Breadboard  
 - (1) x 5mm red LED  
@@ -12,9 +11,10 @@
 - (1) x 1k ohm resistor  
 - (1) x 10k ohm resistor  
 - (2) x M-M wires (Male to Male jumper wires)  
+![構成部品一覧__Lesson3_LED](Lesson3_LED_picture/parts_lists1.jpg)
 
 ### ▼回路図  
-[回路図_Lesson3_LED](Lesson3_LED_schematic.png)
+![回路図_Lesson3_LED](Lesson3_LED_schematic.png)
 
 ### ▼スケッチコード
 [コード_Lesson3_LED](Lesson3_LED.ino)  
