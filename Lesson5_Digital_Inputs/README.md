@@ -25,7 +25,7 @@
 　- 8ピンのスイッチが押される（LOW）と、LEDが消灯  
 　- 9ピンのスイッチが押される（LOW）と、LEDが点灯  
 
-※ 使用するプッシュスイッチには4つの端子がありますが、実際に電気的に接続されているのは2対のみです。たとえば、AとDが接続されており、BとCも内部でつながっています。
+- 使用するプッシュスイッチには4つの端子がありますが、実際に電気的に接続されているのは2対のみです。たとえば、AとDが接続されており、BとCも内部でつながっています。
 ![スイッチの構造](./Lesson5_Digital_Inputs_picture/push_switches.png)
 
 
@@ -39,6 +39,7 @@
 
 右側のボタンを押すと、LEDが点灯しました。  
 ![スイッチオン](./Lesson5_Digital_Inputs_picture/result_on.JPG)
+
 
 左側のボタンを押すと、LEDが消灯しました。  
 ![スイッチオフ](./Lesson5_Digital_Inputs_picture/result_off.JPG)
