@@ -23,12 +23,15 @@ RGB LED（光の三原色を表現できるLED）を使用して、パルス幅�
 - LEDにはアノードとカソードという極性があります。RGB LEDの場合、赤・緑・青の各ピンはアノードです。ピンの順番（位置）に注意してください。  
 - PWM（パルス幅変調）を使用するため、Elegoo Uno R3 のジャンパーワイヤの取り付け位置にも注意が必要です。  
   ※ `~` チルダのマークが付いているピン番号の場所に取り付けてください。
+![配線の写真](./Lesson4_RGB_LED_picture/pwm_output1.JPG)
+![配線の写真](./Lesson4_RGB_LED_picture/pwm_output2.JPG)
 
 
 ## ■ 配線の様子  
 
 下の写真は、ブレッドボードに回路を組んだ様子です。  
-![配線の写真](./Lesson4_RGB_LED_picture/circuit_layout.JPG)
+![配線の写真](./Lesson4_RGB_LED_picture/circuit_layout1.JPG)
+![配線の写真](./Lesson4_RGB_LED_picture/circuit_layout2.JPG)
 
 ## ■ 実行結果  
 
