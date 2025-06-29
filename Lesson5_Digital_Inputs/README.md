@@ -30,16 +30,16 @@
 ## ■ 配線の様子  
 
 下の写真は、ブレッドボード上に組んだ回路の様子です。  
-![配線の写真](./Lesson5_Digital_Inputs/circuit_layout1.JPG)
-![配線の写真](./Lesson5_Digital_Inputs/circuit_layout2.JPG)
+![配線の写真](./Lesson5_Digital_Inputs_picture/circuit_layout1.JPG)
+![配線の写真](./Lesson5_Digital_Inputs_picture/circuit_layout2.JPG)
 
 ## ■ 実行結果  
 
 右側のボタンを押すと、LEDが点灯しました。  
-![スイッチオン](./Lesson5_Digital_Inputs/result_on.JPG)
+![スイッチオン](./Lesson5_Digital_Inputs_picture/result_on.JPG)
 
 左側のボタンを押すと、LEDが消灯しました。  
-![スイッチオフ](./Lesson5_Digital_Inputs/result_off.JPG)
+![スイッチオフ](./Lesson5_Digital_Inputs_picture/result_off.JPG)
 
 ### ▼ 工作していて気づいたこと  
 - 今回のレッスンでは、LEDの点灯/消灯のきっかけがスイッチとなっており、これまでのようにマイコンから直接LEDを制御する構成とは異なっていました。
