@@ -4,12 +4,12 @@
 RGB LED（光の三原色を表現できるLED）を使用して、パルス幅変調（PWM）で電力を制御します。  
 つまり、各LEDの輝度を制御して、赤色 → 緑色 → 青色と色を循環させます。
 
-### ▼ 必要な構成部品  
-- (1) x Elegoo Uno R3  
-- (1) x 830 Tie Points Breadboard  
-- (4) x M-M wires（Male to Male jumper wires）  
-- (1) x RGB LED  
-- (3) x 220Ω resistors
+### ▼ 構成部品  
+- Elegoo Uno R3 × 1  
+- 830ポイント ブレッドボード × 1  
+- RGB LED × 1  
+- 220Ω 抵抗 × 3  
+- ジャンパワイヤ（オス-オス）× 4  
 ![構成部品一覧__Lesson4_RGB_LED](Lesson4_RGB_LED_picture/parts_lists.JPG)  
 
 ### ▼ 回路図  
