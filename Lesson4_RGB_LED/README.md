@@ -5,15 +5,15 @@ RGB LED（光の三原色を表現できるLED）を使用して、パルス幅�
 つまり、各LEDの輝度を制御して、赤色 → 緑色 → 青色と色を循環させます。
 
 ### ▼ 必要な構成部品  
-[構成部品一覧__Lesson4_RGB_LED](Lesson4_RGB_LED_picture/parts_lists.JPG)
 - (1) x Elegoo Uno R3  
 - (1) x 830 Tie Points Breadboard  
 - (4) x M-M wires（Male to Male jumper wires）  
 - (1) x RGB LED  
-- (3) x 220Ω resistors  
+- (3) x 220Ω resistors
+![構成部品一覧__Lesson4_RGB_LED](Lesson4_RGB_LED_picture/parts_lists.JPG)  
 
 ### ▼ 回路図  
-- [回路図_Lesson4_RGB_LED](Lesson4_RGB_LED_schematic.png)
+![回路図_Lesson4_RGB_LED](Lesson4_RGB_LED_schematic.png)
 
 ### ▼ スケッチコード  
 - [コード_Lesson4_RGB_LED](Lesson4_RGB_LED.ino)
